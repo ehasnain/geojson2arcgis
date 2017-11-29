@@ -1,7 +1,7 @@
 '''
 __author__ = "Ehtesham Hasnain"
 __version__ = "1.0"
-__email__ = "s.hasnain@esri.de"
+__email__ = "e.hasnain@esri.de"
 
 Based upon EsriDE-python-osm2arcgis by Simon Geigenberger
 '''
