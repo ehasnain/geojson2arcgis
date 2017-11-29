@@ -1,11 +1,9 @@
 '''
-__author__ = "Simon Geigenberger"
-__copyright__ = "Copyright 2017, Esri Deutschland GmbH"
-__license__ = "Apache-2.0"
+__author__ = "Ehtesham Hasnain"
 __version__ = "1.0"
-__email__ = "s.geigenberger@esri.de"
+__email__ = "s.hasnain@esri.de"
 
-Adapted for accessibility cloud by Ehtesham Hasnain
+Based upon EsriDE-python-osm2arcgis by Simon Geigenberger
 '''
 
 import sys
