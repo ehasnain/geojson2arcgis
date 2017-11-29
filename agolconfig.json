@@ -1,0 +1,13 @@
+{
+	"portalInit" : "http://www.arcgis.com/home/index.html",
+	"userInit" : "MusterUser",
+	"passwordInit" : "MusterPassword",
+	"title" : "New_layer",
+	"tags" : ["testtag1, testtag2, testtag3"],
+	"description" : "description.",
+	"copyrightText" : "Copyright",
+	"maxRecordCount" : 5000,
+	"updateService" : 0,
+	"featureServiceID" : "9958d6e268b44b52a161012s145s21s4",
+	"overwriteFeatureService" : 0
+}

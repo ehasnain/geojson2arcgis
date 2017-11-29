@@ -1,0 +1,10 @@
+{
+    "X-App-Token":"dd0159513faac22587f334605acd9697",
+
+    "requestparameters" : {
+        "latitude": 48.792926,
+        "longitude": 9.190639,
+        "radius": 1000,
+        "limit": 25
+    }
+}
